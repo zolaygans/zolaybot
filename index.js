@@ -13,7 +13,7 @@ const tambahan = require("./lib/tambahan.js")
 const donasi = require("./lib/donasi.js");
 const info = require("./lib/info.js");
 /////////////////
-const BotName = 'ZolayGans'; 
+const BotName = 'ZolayBot'; 
 const instagram = 'https://www.instagram.com/zolay_31'; 
 const telegram = 'https://t.me/ZOLAY_31'; 
 const kapanbotaktif = 'Jam 07.00-22.00'; 
