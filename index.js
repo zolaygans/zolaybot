@@ -18,8 +18,8 @@ const instagram = 'https://www.instagram.com/zolay_31';
 const telegram = 'https://t.me/ZOLAY_31'; 
 const kapanbotaktif = 'Jam 07.00-22.00'; 
 const youtube = 'https://youtube.com/channel/UC9Jta2AfRlxpUBd8UNtI0Yg';
-//const grupch1 = 'belum ada grup'; 
-//const grupch2 = 'belum ada grup' ; 
+//const grupch1 = ' https://chat.whatsapp.com/E4KZMUKo8sBAeZfDxnIDIh'; 
+//const grupch2 = 'https://chat.whatsapp.com/LP7FbOuDrEdKSkQM7u87ZD' ; 
 const
 {
    WAConnection,
